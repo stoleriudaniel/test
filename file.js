@@ -1,1 +1,1 @@
-console.log("version 6.0");
+console.log("feature2");
